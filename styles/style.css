@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(88, 94, 172);
+    height: 50px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+header .main-logo{
+    height: 50px;
+    width: 60px;
+}
+
+main{
+    margin: 0 auto;
+    padding: 20px 100px;
+}
